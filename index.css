@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(176, 247, 235);
+    color: navy;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(67, 67, 250);
+}
+
+#foto{
+    width: 300px;
+    height: auto;
+}
